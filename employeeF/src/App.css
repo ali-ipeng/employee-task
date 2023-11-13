@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.buttonSubCan {
+  display: flex;
+  justify-content: end;
+}
+
+.mainListing .goZmTm {
+  justify-content: left;
+}
+.mainListing .goZmTm input#search {
+  width: 250px;
+}
+button.registerbtns.btn.btn-primary {
+  
+    margin-right: 8px;
+}
+.mainListing {
+  width: 81%;
+  margin-left: 97px;
+  margin: auto;
+  margin-top: 60px;
+}
